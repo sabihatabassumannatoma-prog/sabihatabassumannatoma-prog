@@ -6,7 +6,7 @@ Iam Sabiha Tabassum Annatoma
 - 🌱 **I’m currently learning:** Python (for Data/Bioinformatics), HTML, C and fundamental programming concepts.
 - 💬 **Ask me about:** My passion for Biotech/Bioinformatics or the tech stack I'm currently learning.
 - 🔭 **Goals:** Preparing myself for a Master's track in Bioinformatics by learning data analysis and computational biology worlflows.
-  - 📬 **How to reach me:** [sabihatabassumannatoma@gmail.com](mailto:sabihatabassumannatoma@gmail.com)
+  - 📬 **How to reach me:** [sabihatabassumannatoma@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sabihatabassumannatoma@gmail.com)
 
 
 ### 🛠️ Tech Stack & Learning Path:
